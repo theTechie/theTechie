@@ -15,14 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋  I am Gagan !
+# I am Gagan !
 [![Visits Badge](https://badges.pufler.dev/visits/theTechie/theTechie)](https://badges.pufler.dev)
 
-I am a technical leader helping organizations build data products. I have expertise with data strategy setting up modern data platforms.
+I am passionate about solving unique problems by leveraging data. I have several years of experience building software products across different industries.
+
+Projects
+--------
+
+- Graph data processing to extract insights from collaboration activity using Neo4j
+- Q&A system to help with the contextual search for answers to questions
+- Project schedule forecasting and risk sourcing using Probabilistic Bayesian models
+- Sentiment analysis on unstructured data using Huggingface Transformers
+
+
+Current work
+------------
+
+- ⛵ I am involed in Data Science initiatives at my organization working towards architecting our data strategy to build data platforms, data engineering, machine learning and product engineering practices.
 
 - 🔭 I’m currently working on exploring the field of XAI and Trust in AI and how it can help in Decision support.
 
-- 🌱 I’m currently learning to build language applications using Hugging Face
+- 🌱 I’m currently learning to build language applications using Huggingface
 
 - 👯 I’m looking to collaborate on XAI
 
